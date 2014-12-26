@@ -1,0 +1,13 @@
+[ ] Introduction to Linux
+
+[ ] Understand the basic format of the Hello World C++ program
+  [ ] Understand the #include statement
+  [ ] Understand the using namespace statement 
+  [ ] Understand the declaration of the main function
+  [ ] Understand code comments
+  [ ] Understand printing to the cout
+  [ ] Understand returning 0
+
+[ ] Understand the makefile
+
+[ ] Upload Lesson 1 to github
