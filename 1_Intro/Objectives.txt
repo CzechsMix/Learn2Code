@@ -10,4 +10,4 @@
 
 [X] Understand the makefile
 
-[ ] Upload Lesson 1 to github
+[X] Upload Lesson 1 to github

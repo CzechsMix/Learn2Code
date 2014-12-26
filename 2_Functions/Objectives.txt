@@ -1,0 +1,7 @@
+[ ] Introduction to DNRY
+[ ] void function definition
+[ ] Breaking down Happy Birthday
+[ ] Writing the functions
+[ ] Calling the functions
+
+[ ] Upload Lesson 2 to github
